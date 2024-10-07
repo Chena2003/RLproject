@@ -10,8 +10,8 @@
 
 1. `Dueling DQN`算法训练1000次，稳定赢人机20分
 
-   ![image-20241007112512094](C:\Users\Chena\Desktop\研究生课程\强化学习\RLproject\asset\dueling dqn.png)
+   ![image-20241007112512094](./asset/dueling_dqn.png)
 
 2. `REINFORCE`算法训练4w次，稳定赢人机13分
 
-   ![image-20241007112903114](C:\Users\Chena\Desktop\研究生课程\强化学习\RLproject\asset\reinforce.png)
+   ![image-20241007112903114](./asset/reinforce.png)
